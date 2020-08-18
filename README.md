@@ -3,7 +3,7 @@ This is a calendar application that allows users to create, edit, and remove eve
 
 Events are automatically saved to the Documents folder in a folder called MyCalendar so that when users close and reopen the program, their events are still there.
 
-Note: this application looks for a folder called MyCalendar in the Documents folder. The program then looks for a file called `calendar.mycal`. If this MyCalendar folder does not exist, the folder will be created. Likewise, if the folder exists but the `calendar.mycal` file does not exist, the file is created within the folder. **If you have a file named `calendar.mycal` within a folder called MyCalendar in the Documents folder, this file will be written over.
+Note: this application looks for a folder called MyCalendar in the Documents folder. The program then looks for a file called `calendar.mycal`. If this MyCalendar folder does not exist, the folder will be created. Likewise, if the folder exists but the `calendar.mycal` file does not exist, the file is created within the folder. **If you have a file named `calendar.mycal` within a folder called MyCalendar in the Documents folder, this file will be written over.**
 
 ![MyCalendar](https://github.com/Julia-Lachenauer/MyCalendar/blob/master/media/MyCalendar.png)
 
