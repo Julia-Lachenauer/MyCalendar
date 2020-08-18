@@ -5,4 +5,4 @@ Data is automatically saved to the Documents folder in a folder called MyCalenda
 
 Here are some screenshots of the program.
 
-![Main Screen Screenshot](https://github.com/Julia-Lachenauer/MyCalendar/media/Event_Added.png)
+![Main Screen Screenshot](https://github.com/Julia-Lachenauer/MyCalendar/blob/media/Event_Added.png)
