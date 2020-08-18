@@ -3,6 +3,15 @@ This is a calendar application that allows users to create, edit, and remove eve
 
 Data is automatically saved to the Documents folder in a folder called MyCalendar so that when users close and reopen the program, their events are still there.
 
-Here are some screenshots of the program.
+![MyCalendar](https://github.com/Julia-Lachenauer/MyCalendar/blob/master/media/MyCalendar.png)
 
-![Main Screen Screenshot](https://github.com/Julia-Lachenauer/MyCalendar/blob/master/media/Event_Added.png)
+# Features
+
+The date to view can be chosen by clicking on the Month/Year indicator in the top center of the screen.
+
+![Choose Date to View](https://github.com/Julia-Lachenauer/MyCalendar/blob/master/media/Date_Selector.png)
+
+Events can be added by clicking the "Add Event" button.
+
+![Add Event](https://github.com/Julia-Lachenauer/MyCalendar/blob/master/media/Add_Event.png)
+
