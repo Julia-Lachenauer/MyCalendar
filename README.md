@@ -1,7 +1,8 @@
 # MyCalendar
 This is a calendar application that allows users to create, edit, and remove events.
 
-Events are automatically saved to the Documents folder in a folder called MyCalendar so that when users close and reopen the program, their events are still there. **Note: If you have a file named `calendar.mycal` within a folder called MyCalendar in the Documents folder, this file will be written over.**
+Events are automatically saved to the Documents folder in a folder called MyCalendar so that when users close and reopen the program, their events are still there.
+**Note: If you have a file named `calendar.mycal` within a folder called MyCalendar in the Documents folder, this file will be written over.**
 
 ![MyCalendar](https://github.com/Julia-Lachenauer/MyCalendar/blob/master/media/MyCalendar.png)
 
