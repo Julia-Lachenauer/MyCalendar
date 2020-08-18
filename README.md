@@ -20,6 +20,6 @@ Events can be edited or deleted by clicking on the event once it has been added.
 
 ![Edit Event](https://github.com/Julia-Lachenauer/MyCalendar/blob/master/media/Edit_Event.png)
 
-To see the full details of an event, mouse over it.
+To see the full details of an event, hover over it.
 
 ![Tooltips](https://github.com/Julia-Lachenauer/MyCalendar/blob/master/media/ToolTips.png)
